@@ -18,6 +18,6 @@ Expenses Tracker App is a simple yet powerful tool to help you keep track of you
 3. The Treeview displays all logged expenses.
 4. The total amount in USD is updated in real-time.
 
-![Planning](finalProject/Planning.jpeg)
-![UI](finalProject/UI.jpg)
-![UI](finalProject/project-4.jpeg)
+![Plan](finalProject/Planning.jpeg)
+![app](finalProject/UI.jpg)
+![app](finalProject/project-4.jpeg)
